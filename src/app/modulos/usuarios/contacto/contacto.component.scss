@@ -1,0 +1,10 @@
+.social{
+    a{
+        text-decoration: none;
+        color: inherit;
+        transition: all 0.5s ease-in-out;
+        &:hover{
+            color: orangered;
+        }
+    }
+}

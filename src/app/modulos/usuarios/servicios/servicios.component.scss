@@ -7,8 +7,12 @@
 }
 div[class='card']{
     width: 25vw;
+    transition: all 0.5s ease-in-out;
     img{
         width: 25vw;
         height: 15rem;
+    }
+    &:hover{
+        transform: scale(1.1, 1.1);
     }
 }

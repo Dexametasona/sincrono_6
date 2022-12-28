@@ -2,10 +2,12 @@
     display: flex;
     flex-direction: column;
     height: 100%;
-    background:linear-gradient(to right,
+    background:
+        url("https://thumbs.dreamstime.com/b/empty-wood-table-blur-interior-coffee-shop-cafe-background-empty-top-wood-table-blur-interior-coffee-shop-138877213.jpg"),
+        linear-gradient(to right,
         white, 
         rgb(59, 59, 59)
-        ), url("https://placeimg.com/1500/800/animalshttps://thumbs.dreamstime.com/b/empty-wood-table-blur-interior-coffee-shop-cafe-background-empty-top-wood-table-blur-interior-coffee-shop-138877213.jpg");
+        );
     background-size: cover;
     
 }

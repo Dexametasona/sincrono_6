@@ -1,0 +1,14 @@
+:host{
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 1.5rem;
+}
+div[class='card']{
+    width: 25vw;
+    img{
+        width: 25vw;
+        height: 15rem;
+    }
+}
